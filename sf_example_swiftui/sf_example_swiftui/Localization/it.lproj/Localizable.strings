@@ -1,0 +1,22 @@
+/*
+
+  Project: Tasks
+  Localization: it-IT - Italian
+  Date created: 29 July 2024 | 15:07
+
+  Created by StringFly. Copyright © StringFly. All rights reserved.
+
+*/
+
+"MainScreen.titleScreen" = "Schermata principale dell'app";
+"MainScreen.helloUser" = "Buongiorno, {USER}";
+"MainScreen.yourTodayTask" = "Oggi hai più compiti.";
+"MainScreen.Buttons.details" = "Mostra attività";
+"SecondScreen.titleScreen" = "Descrizione dell'attività";
+"SecondScreen.taskDescription" = "**I tuoi compiti per oggi:**
+- Bevi caffè.
+- Utilizzare [app.stringfly.app](https://app.stringfly.app) per risparmiare tempo.
+- Dì *grazie*.
+- Prendi una pizza e vai a uscire con gli amici.";
+"SecondScreen.Buttons.complete" = "Fatto";
+"SecondScreen.Buttons.later" = ".. lo farà più tardi";

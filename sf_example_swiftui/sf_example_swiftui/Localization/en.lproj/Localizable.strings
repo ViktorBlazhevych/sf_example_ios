@@ -1,0 +1,22 @@
+/*
+
+  Project: Tasks
+  Localization: en-US - English
+  Date created: 29 July 2024 | 15:07
+
+  Created by StringFly. Copyright © StringFly. All rights reserved.
+
+*/
+
+"MainScreen.titleScreen" = "Main App Screen";
+"MainScreen.helloUser" = "Hello, {USER}";
+"MainScreen.yourTodayTask" = "You have more tasks today.";
+"MainScreen.Buttons.details" = "Show Tasks";
+"SecondScreen.titleScreen" = "Task Description";
+"SecondScreen.taskDescription" = "**Your tasks for today:**
+- Drink coffee.
+- Use [app.stringfly.app](https://app.stringfly.app) to save your time.
+- Say *thank you*.
+- Grab a _pizza_ and go hang out with friends.";
+"SecondScreen.Buttons.complete" = "Done";
+"SecondScreen.Buttons.later" = "..will do Later";
